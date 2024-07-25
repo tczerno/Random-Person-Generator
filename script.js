@@ -26,7 +26,6 @@ function getUsers() {
 
       const imageContainer = document.getElementById('imageContainer');
       imageContainer.innerHTML = `<img src= "${picture}" width='200px' height='200px'>`;
-
       document.querySelector('.name').textContent = `${firstName} ${lastName}`;
       document.querySelector(
         '.first-name'
