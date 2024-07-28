@@ -3,7 +3,7 @@
 document.querySelector('button').addEventListener('click', function () {
   getUsers();
 });
-
+//
 function getUsers() {
   if (document.querySelector('h1')) {
     document.querySelector('h1').remove();
