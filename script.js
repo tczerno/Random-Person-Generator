@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-// 'use strict';
-// document.querySelector('button').addEventListener('click', function () {
-//   getUsers();
-// });
-=======
+
 'use strict';
 document.querySelector('button').addEventListener('click', function () {
   getUsers();
