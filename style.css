@@ -3,7 +3,7 @@
   /* padding: 0; */
   /* box-sizing: inherit; */
 }
-/*
+
 html {
   box-sizing: border-box;
   background-color: rgb(65, 62, 233);
@@ -68,10 +68,4 @@ button {
 .name {
   text-align: center;
   font-size: 40px;
-}
-*/
-html,
-body {
-  margin: 0;
-  padding: 0;
 }
