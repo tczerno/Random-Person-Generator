@@ -1,4 +1,3 @@
-
 'use strict';
 document.querySelector('button').addEventListener('click', function () {
   getUsers();
@@ -9,7 +8,6 @@ function getUsers() {
     document.querySelector('h1').remove();
     document.querySelector('h2').remove();
   }
->>>>>>> 5f133f32baa4cc24bf24a2d169e024df8f505ed5
 
   fetch('https://randomuser.me/api/?results=1')
     .then(results => {
